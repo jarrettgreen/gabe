@@ -20,3 +20,15 @@ end
 def render_yoda
   system 'cat yoda.txt'
 end
+
+def render_rebel_alliance
+  puts "                                  _  ,^.  _    "
+  puts "                                ,'/ -' '- \\`.  "
+  puts "                               / |   \\ /   | \\ "
+  puts "                              |  |   | |   |  |"
+  puts "                              |   \\_,' `._/   |"
+  puts "                              |               |"
+  puts "                               \\             / "
+  puts "                                `.         .'  "
+  puts "                                  `--._.--'	"
+end
